@@ -8,7 +8,7 @@ E-kart is a full-fledged ecommerce application that allows users to browse produ
 wishlists, add items to the cart, post reviews, place orders, download order receipts, and cancel orders. The application is built with ReactJS for the front end and Node.js for the backend. The project is hosted on Netlify for the frontend and Render for the backend and uses a NoSQL MongdoDB to store all the required information for the application that needs to be persisted.
 
 ## Source Code
-https://github.com/vinubaburaj/ekart-web-app
+[E-kart GitHub](https://github.com/vinubaburaj/ekart-web-app)
 
 ## Features
 
