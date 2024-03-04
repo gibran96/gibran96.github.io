@@ -2,7 +2,8 @@
 layout: post
 title: Professional Experience
 ---
-Dive into the details of my work experience.
+- Full Stack Engineer at Cognizant Technology Solutions from November 2021 to May 2023.
+- Software Engineer at Tata Consultancy Services from September 2018 to October 2021.
 
 ## Full Stack Engineer at Cognizant Technology Solutions
 ### Nov 2021 - May 2023

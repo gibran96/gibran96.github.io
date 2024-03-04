@@ -3,8 +3,7 @@ layout: post
 title: Graduate Teaching Assistant at Northeastern University
 ---
 
-Currently, I am working as a Graduate Teaching Assistant at Northeastern University, for course 
-CS5610 - Web Development.
+I am a Graduate Teaching Assistant and mentor to a cohort of 370 students.
 
 ## Responsibilities
 - Conducting office hours for the students.

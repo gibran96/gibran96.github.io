@@ -2,7 +2,7 @@
 layout: post
 title: E-kart - Ecommerce Application
 ---
-This was a project created as part of my coursework at Northeastern University.
+An e commerce application built end to end using React and Node.js as project work at Northeastern University.
 
 E-kart is a full-fledged ecommerce application that allows users to browse products, manage 
 wishlists, add items to the cart, post reviews, place orders, download order receipts, and cancel orders. The application is built with ReactJS for the front end and Node.js for the backend. The project is hosted on Netlify for the frontend and Render for the backend and uses a NoSQL MongdoDB to store all the required information for the application that needs to be persisted.
